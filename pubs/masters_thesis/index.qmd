@@ -1,0 +1,8 @@
+---
+title: "My master's thesis"
+author: "Savannah M. Hammerton"
+date: "2022-05-01"
+categories: [thesis, biology, vaccines, norovirus]
+---
+
+Here is a link to my master's thesis. 

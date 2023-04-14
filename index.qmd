@@ -1,0 +1,33 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/smhammerton
+    - icon: github
+      text: Github
+      href: https://github.com/smhammerton 
+    - text: ORCid
+      href: https://orcid.org/0000-0003-2231-3510
+
+---
+
+# Education
+
+**PhD, Epidemiology & Biostatistics** | Emphasis in Data Analysis & Modeling. May 2022 -- Present. University of Georgia, Athens, GA, USA.
+
+**MS, Epidemiology & Biostatistics** | Emphasis in Epidemiology, Graduate Certificate in Infectious Disease Epidemiology. May 2022. University of Georgia, Athens, GA, USA. 
+
+  
+**BS, Health Science.** May 2020. Columbus State University, Columbus, GA, USA. 
+
+# Interests 
+
+- Infectious diseases 
+- Transmission dynamics
+- Viral vaccine efficacy and correlates of protection
+- Public health surveillance 
+- Data analysis and modeling 
